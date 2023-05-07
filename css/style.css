@@ -1,0 +1,16 @@
+body{
+    text-transform: capitalize;
+    text-align: center;
+    background-color:#f6e4ad;
+}
+img{
+ width: 300px;
+}
+.links{
+    
+    display: flex;
+     justify-content: space-evenly;
+}
+p{
+    margin: 100px 300px;
+}
